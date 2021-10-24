@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-ytclone/static/css/main.2f44da16.chunk.css",
+    "main.js": "/react-ytclone/static/js/main.3b9e7b33.chunk.js",
+    "main.js.map": "/react-ytclone/static/js/main.3b9e7b33.chunk.js.map",
+    "runtime-main.js": "/react-ytclone/static/js/runtime-main.b75a0e10.js",
+    "runtime-main.js.map": "/react-ytclone/static/js/runtime-main.b75a0e10.js.map",
+    "static/js/2.bac74700.chunk.js": "/react-ytclone/static/js/2.bac74700.chunk.js",
+    "static/js/2.bac74700.chunk.js.map": "/react-ytclone/static/js/2.bac74700.chunk.js.map",
+    "index.html": "/react-ytclone/index.html",
+    "static/css/main.2f44da16.chunk.css.map": "/react-ytclone/static/css/main.2f44da16.chunk.css.map",
+    "static/js/2.bac74700.chunk.js.LICENSE.txt": "/react-ytclone/static/js/2.bac74700.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b75a0e10.js",
+    "static/js/2.bac74700.chunk.js",
+    "static/css/main.2f44da16.chunk.css",
+    "static/js/main.3b9e7b33.chunk.js"
+  ]
+}
